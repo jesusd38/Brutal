@@ -1,0 +1,21 @@
+# CID Ignore File
+*.md
+
+# These are all for unit tests
+Files/UnitTests
+*.Tests.ps1
+Private/*.Tests.ps1
+Public/*.Tests.ps1
+Private/Logging/*.Tests.ps1
+
+.git
+.gitignore
+.cidignore
+cidConfig.json
+.cidconfig
+
+.cider/
+
+*.xml
+Jenkinsfile
+VERSION
