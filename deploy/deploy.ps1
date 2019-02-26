@@ -1,0 +1,1 @@
+﻿#for deploying brutal kit to management server
