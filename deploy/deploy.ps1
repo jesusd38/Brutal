@@ -1,1 +1,1 @@
-﻿#for deploying brutal kit to management server
+﻿#for deploying brutal kit to management serverkjn
